@@ -1,20 +1,20 @@
 const config = {
   data: {
     // Main invitation title that appears on the page
-    title: "Pernikahan Fulan & Fulana",
+    title: "Pernikahan Purwanto & Nindy Rizky Ariastuti",
     // Opening message/description of the invitation
     description:
       "Kami akan menikah dan mengundang Anda untuk turut merayakan momen istimewa ini.", // Nanti ini dibikin random
     // Groom's name
-    groomName: "Fulan",
+    groomName: "Purwanto",
     // Bride's name
-    brideName: "Fulana",
+    brideName: "Nindy Rizky Ariastuti",
     // Groom's parents names
-    parentGroom: "Bapak Groom & Ibu Groom",
+    parentGroom: "Bapak Sardi & Ibu Siti Barokah",
     // Bride's parents names
-    parentBride: "Bapak Bride & Ibu Bride",
+    parentBride: "Bapak Maryanto & Ibu Kartini",
     // Wedding date (format: YYYY-MM-DD)
-    date: "2024-12-24",
+    date: "2025-12-22",
     // Google Maps link for location (short clickable link)
     maps_url: "https://goo.gl/maps/abcdef",
     // Google Maps embed code to display map on website
@@ -37,23 +37,23 @@ const config = {
         // First event name
         title: "Akad Nikah",
         // Event date (format: YYYY-MM-DD)
-        date: "2024-12-24",
+        date: "2025-12-22",
         // Start time (format: HH:MM)
-        startTime: "16:16",
+        startTime: "08:30",
         // End time (format: HH:MM)
         endTime: "17:30",
         // Event venue
-        location: "Grand Ballroom, Hotel Majesty",
+        location: "Kediaman Bapak Sardi",
         // Full address
         address: "Jl. Jend. Sudirman No.1, Jakarta",
       },
       {
         // Second event name
         title: "Resepsi Nikah",
-        date: "2024-12-24",
-        startTime: "16:16",
+        date: "2025-12-22",
+        startTime: "11:30",
         endTime: "17:30",
-        location: "Grand Ballroom, Hotel Majesty",
+        location: "Kediaman Bapak Sardi",
         address: "Jl. Jend. Sudirman No.1, Jakarta",
       }
       // You can add more agenda items with the same format
@@ -79,12 +79,12 @@ const config = {
         // Account number
         accountNumber: "1234567890",
         // Account holder name (all uppercase)
-        accountName: "FULAN",
+        accountName: "PURWANTO",
       },
       {
         bank: "Bank Mandiri",
         accountNumber: "0987654321",
-        accountName: "FULANA",
+        accountName: "NINDY RIZKY ARIASTUTI",
       }
       // You can add more banks with the same format
     ]
