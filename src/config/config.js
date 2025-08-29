@@ -22,11 +22,11 @@ const config = {
     maps_embed:
       "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3966.0000000000005!2d106.8270733147699!3d-6.175392995514422!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f4f1b6d7b1e7%3A0x2e69f4f1b6d7b1e7!2sMonumen%20Nasional!5e0!3m2!1sid!2sid!4v1633666820004!5m2!1sid!2sid",
     // Event time (free format, example: "10:00 - 12:00 WIB")
-    time: "16:16 - 17:30 WIB",
+    time: "08:30 - 17:30 WIB",
     // Venue/building name
-    location: "Grand Ballroom, Hotel Majesty",
+    location: "Kediaman Bapak Sardi",
     // Full address of the wedding venue
-    address: "Jl. Jend. Sudirman No.1, Jakarta",
+    address: "Jl.garuda 2 Rt.5/Rw.7, Pasir Putih, Kec. Sawangan, Kota Depok, Indonesia 16519 (Rumah No 3), KOTA DEPOK, SAWANGAN, JAWA BARAT, ID, 16519",
     // Image that appears when link is shared on social media
     ogImage: "/images/og-image.jpg",
     // Icon that appears in browser tab
@@ -45,7 +45,7 @@ const config = {
         // Event venue
         location: "Kediaman Bapak Sardi",
         // Full address
-        address: "Jl. Jend. Sudirman No.1, Jakarta",
+        address: "Jl.garuda 2 Rt.5/Rw.7, Pasir Putih, Kec. Sawangan, Kota Depok, Indonesia 16519 (Rumah No 3), KOTA DEPOK, SAWANGAN, JAWA BARAT, ID, 16519",
       },
       {
         // Second event name
@@ -54,7 +54,7 @@ const config = {
         startTime: "11:30",
         endTime: "17:30",
         location: "Kediaman Bapak Sardi",
-        address: "Jl. Jend. Sudirman No.1, Jakarta",
+        address: "Jl.garuda 2 Rt.5/Rw.7, Pasir Putih, Kec. Sawangan, Kota Depok, Indonesia 16519 (Rumah No 3), KOTA DEPOK, SAWANGAN, JAWA BARAT, ID, 16519",
       }
       // You can add more agenda items with the same format
     ],
